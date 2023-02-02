@@ -1,4 +1,4 @@
-# elelentaryOS 7 config
+# elementaryOS 7 config
 
 ## wingpanel transparent
 
