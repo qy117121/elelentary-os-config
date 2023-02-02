@@ -8,8 +8,8 @@
  
 #### Clone the repository and run script
     cd /tmp
-    git clone https://github.com/qy117121/elelentary-os-config.git
-    cd elelelentary-os-config
+    git clone https://github.com/qy117121/elementary-os-config.git
+    cd elementary-os-config
     bash wingpanel.sh
     
 ## lockscreen bg replacer
