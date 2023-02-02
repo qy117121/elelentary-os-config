@@ -17,3 +17,6 @@
  
 ## pantheon-tweaks (elementary-tweaks)
  https://github.com/pantheon-tweaks/pantheon-tweaks/
+
+## Wingpanel Ayatana-Compatibility Indicator
+ https://github.com/Lafydev/wingpanel-indicator-ayatana
