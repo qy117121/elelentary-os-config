@@ -9,7 +9,7 @@
 #### Clone the repository and run script
     cd /tmp
     git clone https://github.com/qy117121/elelentary-os-config.git
-    cd eleelelentary-os-config
+    cd elelelentary-os-config
     bash wingpanel.sh
     
 ## lockscreen bg replacer
